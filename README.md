@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 
 - 🔭 **Current Focus:** Building Android apps with **Kotlin**, **Jetpack Compose**, **MVVM/MVI**, and modern tools (Hilt, Coroutines, Room, Retrofit).  
 - 🌐 **Location:** Based in Poland, originally from Uzbekistan 🇺🇿, working with international teams across Europe.  
-- 🌱 **Always Learning:** Pursuing a **Bachelor’s in Cyber Security** and a **Master’s in DevOps**, expanding into cloud automation and mobile security.  
-- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozodbek-karimov/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ozodbek)  
+- 🌱 **Always Learning:** Pursuing a **Bachelor’s in Cyber Security**, expanding into mobile security.  
+- 📫 **Contact Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrokarimov/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrokarimov)  
 
 ## 🎓 Academic Background  
 
@@ -35,19 +35,20 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 ## 💼 Professional Experience  
 
 ### **Android Engineer @ Epix Labs (Car Rental/Sharing)**  
-- Built and scaled a car-sharing app with **Yandex Map SDK** integration, clustering, and real-time vehicle tracking across 10+ districts.  
-- Improved car catalog load time by **63%** (12s → 4s).  
-- Implemented modularization and analytics pipelines for 200+ vehicles.  
+- Developed and scaled a mobile platform for car-sharing with advanced map integration and real-time tracking.  
+- Improved performance and app responsiveness through optimization and modularization.  
+- Contributed to analytics implementation and feature growth in a fast-moving startup environment.  
 
-### **Android Developer @ Touchlane (B2B Logistics)**  
-- Migrated core features to Kotlin and **Jetpack Compose**.  
-- Optimized API calls and caching, reducing network usage by **25%**.  
-- Onboarded and mentored 2 junior developers.  
+### **Android Developer @ Touchlane (B2B Logistics & E-commerse)**  
+- Supported migration of core features to Kotlin and modern Android frameworks.  
+- Improved networking and caching for more reliable performance.  
+- Collaborated with team members and contributed to onboarding and mentoring activities.  
 
 ### **Software Engineer @ MixMove (SaaS Logistics)**  
-- Delivered backend-driven Android UI (dynamic JSON layouts).  
-- Designed analytics strategy for supply chain tracking.  
-- Improved system stability with **90%+ test coverage**.  
+- Delivered Android solutions for logistics and supply chain management.  
+- Built backend-driven UI systems and integrated analytics tracking.  
+- Focused on stability, testing, and long-term maintainability of the application.  
+
 
 ## 🌟 What Drives Me  
 
