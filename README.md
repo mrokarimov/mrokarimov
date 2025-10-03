@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I am an **Android Engineer** and **Software Develo
 - Improved performance and app responsiveness through optimization and modularization.  
 - Contributed to analytics implementation and feature growth in a fast-moving startup environment.  
 
-### **Android Developer @ Touchlane (B2B Logistics & E-commerse)**  
+### **Android Developer @ Techline Studio (LMS App)**  
 - Supported migration of core features to Kotlin and modern Android frameworks.  
 - Improved networking and caching for more reliable performance.  
 - Collaborated with team members and contributed to onboarding and mentoring activities.  
